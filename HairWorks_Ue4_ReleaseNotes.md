@@ -18,6 +18,9 @@ Known Issues
 
 Changes
 =============
+## Aug 2, 2017
+* Upgraded to UE4.16.3. 
+
 ## Jun 17, 2017
 * Upgraded to UE4.16.1
 * Added selection outline. 
